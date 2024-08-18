@@ -4,13 +4,13 @@ Data repository for the study and manuscript titled "The dependencies of phantom
 
 ## Folder structure
 
-PDF plots generated for this study have been segregated by file name (Robust vs NonRobust) and investigation group as per the folder structure below:
+Plots generated for this study have been segregated according to robustness category (Robust vs NonRobust) and investigation group as per the folder structure below:
 
 ```
 📦 
 ├─ acq_time
-│  ├─ RobustPlot .... .pdf
-│  └─ NonRobustPlot .... .pdf
+│  ├─ Robust
+│  └─ NonRobust
 ├─ beta_value
 │  └─ as above
 ├─ filter_width
