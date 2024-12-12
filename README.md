@@ -1,6 +1,6 @@
 # Robustness of [18F]-FDG-PET radiomic features to image acquisition and reconstruction parameter variations
 
-Data repository for the study and manuscript titled "The dependencies of phantom [18F]-FDG-PET radiomic features to image acquisition and reconstruction parameters" by Syafiq Ramlee, Maria Delgado-Ortet, Lorena Escudero Sanchez, Luigi Aloj, and Roido Manavaki.
+Data repository for the study and manuscript titled "On the robustness of [18F]-FDG-PET radiomic features to variations in image acquisition and reconstruction settings: a phantom study" by Syafiq Ramlee, Maria Delgado-Ortet, Lorena Escudero Sanchez, Luigi Aloj, and Roido Manavaki.
 
 ## Folder structure
 
